@@ -23,6 +23,10 @@
     "type": "git",
     "url": "https://github.com/artusjs/eslint-config-artus"
   },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "homepage": "https://github.com/eggjs/eslint-config-egg",
   "author": "popomore <sakura9515@gmail.com>",
   "scripts": {
